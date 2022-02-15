@@ -9,6 +9,7 @@ func greet() {
 // function to ask question to the user
 func askQuestion() {
 	fmt.Println("How are you today?")
+	fmt.Println("Are you having a good day so far?")
 }
 
 func main() {
