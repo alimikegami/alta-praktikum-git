@@ -2,6 +2,7 @@ package main
 
 import "fmt"
 
+// function to greet the user
 func greet() {
 	fmt.Println("Hi, my name is Alim Ikegami! Nice to meet you!")
 }
