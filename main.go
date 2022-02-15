@@ -5,6 +5,7 @@ import "fmt"
 // function to greet the user
 func greet() {
 	fmt.Println("Hi, my name is Alim Ikegami! Nice to meet you!")
+	fmt.Println("I Hope you are having a wonderful day!")
 }
 
 func askQuestion() {
